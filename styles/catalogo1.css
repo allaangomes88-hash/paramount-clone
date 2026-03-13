@@ -1,0 +1,14 @@
+.primeiro__catalogo{
+    background-image: url("../img/landman-paramount.webp");
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 80vh ;
+}
+
+
+
+.lista__catalogo img{
+    width: 100%;
+    border-radius: 10px;
+}

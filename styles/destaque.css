@@ -1,0 +1,69 @@
+.destaque{
+    background-image: url("../img/mobile-img/UFC.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+}
+
+
+.container__destaque{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   text-align: center;    
+    margin: 0 auto;          
+    width: 90%;           
+}
+
+.destaque__titulo{
+    font-weight: 900;
+    font-size: 2em;
+    padding-top: 1em;
+    padding-bottom: .5em;
+    flex-wrap: wrap;
+    text-transform: uppercase;
+}
+.conteudo__texto{
+    font-weight: 400;
+    font-size: var(--tamanho-fonte-texto);
+    flex-wrap: wrap;
+}
+
+@media  screen and (min-width:768px) {
+
+    .conteudo__texto{
+        font-size: 1rem;
+    }
+
+    .destaque{
+        min-height: 120vh;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+    
+    .destaque{
+      display: flex;
+      justify-content: flex-start;
+      background-image: url("../img/UFC-paramount-desktop.webp");
+      background-position: right;
+    }
+
+    .titulo__desktop-destaque{
+      padding-bottom: 0;
+    }
+
+    .texto__desktop-destaque{
+      padding-bottom: 3rem;
+    }
+
+  
+    .destaque{
+      min-height: 90vh;
+    }
+    
+
+
+}

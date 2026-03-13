@@ -1,0 +1,14 @@
+.segundo__catalogo{
+    background-image: url("../img/mobile-img/yellowstone-paramount-mobile.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+
+@media screen and (min-width: 1024px){
+    .segundo__catalogo{
+        background-image: url("../img/yellowstone-paramount-desktop.webp");
+        background-position: right;
+    }
+}

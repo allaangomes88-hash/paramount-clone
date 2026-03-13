@@ -1,0 +1,38 @@
+.finalizacao{
+    background-image: url("../img/mobile-img/finalizacao-paramount-mobile.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 2em;
+    min-height: 110vh;
+}
+
+.finalizacao__conteudo{
+    text-align: center;
+    margin: 6rem auto;
+}
+
+.link__finalizacao{
+    width: 100%;
+}
+
+@media  screen and (min-width: 768px) {
+    .finalizacao__links{
+     display: flex;
+     flex-direction: column;
+     margin-top: 2rem;
+     gap: 2rem;
+}
+
+}
+
+@media  screen and (min-width: 1024px) {
+    .finalizacao{
+        background-image: url("../img/finalizacao-paramount-desktop.webp");
+        min-height: 100vh;
+    }
+    .finalizacao__links{
+        margin: 0 auto;
+    }
+
+}
