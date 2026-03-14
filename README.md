@@ -1,7 +1,7 @@
 <h1 align="center">PARAMOUNT+</H1>
 
  <div align="center">
-  <img src="https://img.shields.io/badge/Concluído-4169E1?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projeto%20Conclu%C3%ADdo-25C2A0?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Responsivo-4169E1" />
 </div>
 
