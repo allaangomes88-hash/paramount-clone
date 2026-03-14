@@ -7,7 +7,6 @@
 
 <p align="center">Projeto feito para estudos, com foco em Front-End.</p>
 
-<img width="1581" height="766" alt="paramount-landing-page-clone" src="https://github.com/user-attachments/assets/7292725e-bae1-4421-ab91-628b2020dcb2" />
-
-
-![DEMO](GIF-paramount-ezgif.com-resize.gif)
+<div align="center">
+  ![DEMO](GIF-paramount-ezgif.com-resize.gif)
+</div>
