@@ -8,5 +8,5 @@
 <p align="center">Projeto feito para estudos, com foco em Front-End.</p>
 
 <div align="center">
-  <img src="GIF-paramount.gif"/>
+  <img src="paramount.gif"/>
 </div>
